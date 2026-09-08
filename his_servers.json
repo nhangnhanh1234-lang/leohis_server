@@ -1,0 +1,118 @@
+[
+  {
+    "id": "benhvienchaudoc_his",
+    "apiBaseUrl": "http://benhvienchaudoc.vn:6868/leo/api/app",
+    "name": "Trial Server",
+    "shortName": "Trial Server",
+    "address": "",
+    "location": null,
+    "hotline": null,
+    "order_index": 3,
+    "features": [],
+    "type": "hospital",
+    "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "status": 1
+  },
+  {
+    "id": "benhviencuba_his",
+    "apiBaseUrl": "http://26.38.69.239:8000/leo/api/app",
+    "name": "Bệnh viện Hữu Nghị Việt Nam - Cu Ba",
+    "shortName": "Bệnh viện Hữu Nghị Việt Nam - Cu Ba",
+    "address": "số 37, Hai bà Trưng, phường Cửa Nam, TP Hà Nội",
+    "location": null,
+    "hotline": null,
+    "order_index": 1,
+    "features": [],
+    "type": "hospital",
+    "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/cuba_logo.png",
+    "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/cuba.jpg",
+    "status": 1
+  },
+  {
+    "id": "benhvienphuctho_his",
+    "apiBaseUrl": "https://his-phuctho.leohis.com/leo/api/app",
+    "name": "Bệnh viện Hữu Nghị Việt Nam - Cu Ba",
+    "shortName": "Bệnh viện Đa Khoa Phúc Thọ",
+    "address": "Thôn 1, xã Phúc Thọ, TP Hà Nội",
+    "location": null,
+    "hotline": null,
+    "order_index": 0,
+    "features": [],
+    "type": "hospital",
+    "logoUrl": "https://raw.githubusercontent.com/thanksnhang/leocare_assets/refs/heads/main/docs/477516766_1132807038542152_2334470871881601302_n.jpg",
+    "bannerUrl": "https://raw.githubusercontent.com/thanksnhang/leocare_assets/refs/heads/main/docs/477516766_1132807038542152_2334470871881601302_n.jpg",
+    "status": 1
+  },
+  {
+    "id": "benhvienquany7_his",
+    "apiBaseUrl": "http://26.38.69.239",
+    "name": null,
+    "shortName": "Bệnh Viện Quân Y 7",
+    "address": "12 Tuệ Tĩnh, P. Nguyễn Trãi, Hải Dương",
+    "location": null,
+    "hotline": null,
+    "order_index": 6,
+    "features": [],
+    "type": "hospital",
+    "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/quany7_logo.png",
+    "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/quany7.png",
+    "status": 0
+  },
+  {
+    "id": "benhvientimmachcantho_his",
+    "apiBaseUrl": "http://103.2.225.205:6868/leo/api/app",
+    "name": "Bệnh viện Tim mạch Thành phố Cần Thơ",
+    "shortName": "Bệnh viện Tim mạch Thành phố Cần Thơ",
+    "address": "Số 204 Trần Hưng Đạo, P. Ninh Kiều, TP. Cần Thơ",
+    "location": null,
+    "hotline": null,
+    "order_index": 0,
+    "features": [
+      {
+        "key": "zkteco_fingerprint_scanner",
+        "type": "signature",
+        "name": "ZKTeco Fingerprint Scanner" 
+      },
+      {
+        "key": "signpad_signature",
+        "type": "signature",
+        "name": "Signpad Signature" 
+      }
+    ],
+    "type": "hospital",
+    "logoUrl": "https://bvtimmachcantho.vn/DesktopModules/NEWS/tinnoibat/2/6391004560765895761272.png",
+    "bannerUrl": "https://bvtimmachcantho.vn/DesktopModules/NEWS/tinnoibat/2/6391004560765895761272.png",
+    "status": 1
+  },
+  {
+    "id": "bvnhitwantho_his",
+    "apiBaseUrl": "https://nhict.leohis.com/leo/api/app",
+    "name": "Bệnh viện Nhi Đồng TP Cần Thơ",
+    "shortName": "Bệnh viện Nhi Đồng Cần Thơ",
+    "address": "Số 345 Nguyễn Văn Cừ, P. An Bình, TP. Cần Thơ",
+    "location": null,
+    "hotline": null,
+    "order_index": 7,
+    "features": [],
+    "type": "hospital",
+    "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/nhitwcantho.png",
+    "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/quany7.png",
+    "status": 1
+  },
+  {
+    "id": "ttytdonghai_his",
+    "apiBaseUrl": "http://26.38.69.239",
+    "name": "TTYT KHU VỰC ĐÔNG HẢI",
+    "shortName": "TTYT KHU VỰC ĐÔNG HẢI",
+    "address": "2CJF+W3V, Ấp 4, Đông Hải, Bạc Liêu",
+    "location": null,
+    "hotline": null,
+    "order_index": 9,
+    "features": [],
+    "type": "clinic",
+    "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/donghai_logo.png",
+    "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/donghai.png",
+    "status": 0
+  }
+]
