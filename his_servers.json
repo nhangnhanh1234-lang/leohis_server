@@ -1,7 +1,7 @@
 [
   {
     "id": "benhvienchaudoc_his",
-    "apiBaseUrl": "http://26.99.184.208:6868/leo/api/app",
+    "apiBaseUrl": "http://26.99.184.208:6869/leo/api/app",
     "name": "Trial Server",
     "shortName": "Trial Server",
     "address": "",
