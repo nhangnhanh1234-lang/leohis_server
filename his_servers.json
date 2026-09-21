@@ -8,7 +8,18 @@
     "location": null,
     "hotline": null,
     "order_index": 3,
-    "features": [],
+    "features": [
+      {
+        "key": "zkteco_fingerprint_scanner",
+        "type": "signature",
+        "name": "ZKTeco Fingerprint Scanner" 
+      },
+      {
+        "key": "signpad_signature",
+        "type": "signature",
+        "name": "Signpad Signature" 
+      }
+    ],
     "type": "hospital",
     "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
     "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
@@ -23,7 +34,18 @@
     "location": null,
     "hotline": null,
     "order_index": 3,
-    "features": [],
+    "features": [
+      {
+        "key": "zkteco_fingerprint_scanner",
+        "type": "signature",
+        "name": "ZKTeco Fingerprint Scanner" 
+      },
+      {
+        "key": "signpad_signature",
+        "type": "signature",
+        "name": "Signpad Signature" 
+      }
+    ],
     "type": "hospital",
     "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
     "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
