@@ -54,6 +54,60 @@
     "status": 1
   },
   {
+    "id": "benhvienchaudoc_his_2",
+    "apiBaseUrl": "http://192.168.1.248:6869/leo/api/app",
+    "name": "Trial Server 2",
+    "shortName": "Trial Server 2",
+    "address": "",
+    "location": null,
+    "hotline": null,
+    "order_index": 3,
+    "features": [
+      {
+        "key": "signpad_signature",
+        "type": "signature",
+        "enabled": true,
+        "order": 1,
+        "provider": null,
+        "name": "Signpad Signature",
+        "config": {
+          "ownerTypes": ["patient", "relative"],
+          "stampCertificate": true,
+          "showSignDate": true
+        }
+      },
+      {
+        "key": "zkteco_fingerprint",
+        "type": "signature",
+        "enabled": true,
+        "order": 2,
+        "provider": "zkteco",
+        "name": "ZKTeco Fingerprint Scanner",
+        "config": {
+          "ownerTypes": ["patient", "relative"],
+          "captureTimeoutSec": 30
+        }
+      },
+      {
+        "key": "futronic_fingerprint",
+        "type": "signature",
+        "enabled": true,
+        "order": 3,
+        "provider": "futronic",
+        "name": "Futronic FS80H Fingerprint Scanner",
+        "config": {
+          "ownerTypes": ["patient", "relative"],
+          "deviceModel": "FS80H",
+          "captureTimeoutSec": 30
+        }
+      }
+    ],
+    "type": "hospital",
+    "logoUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "bannerUrl": "https://raw.githubusercontent.com/nhang1020/leocare_assets/refs/heads/main/facilities/chaudoc.png",
+    "status": 1
+  },
+  {
     "id": "pkhanhngoc_his",
     "apiBaseUrl": "https://his-hanhngoc.leohis.com/leo/api/app",
     "name": "Phòng Khám Đa Khoa Hạnh Ngọc",
