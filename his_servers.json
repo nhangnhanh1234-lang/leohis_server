@@ -1,9 +1,9 @@
 [
   {
     "id": "benhvienchaudoc_his",
-    "apiBaseUrl": "http://26.99.184.208:6869/leo/api/app",
-    "name": "Trial Server",
-    "shortName": "Trial Server",
+    "apiBaseUrl": "http://115.79.221.42:6869",
+    "name": "TRUNG TÂM Y TẾ CHÂU PHÚ",
+    "shortName": "TRUNG TÂM Y TẾ CHÂU PHÚ",
     "address": "",
     "location": null,
     "hotline": null,
