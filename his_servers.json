@@ -131,6 +131,18 @@
         }
       },
       {
+        "key": "zkteco_fingerprint",
+        "type": "signature",
+        "enabled": true,
+        "order": 2,
+        "provider": "zkteco",
+        "name": "ZKTeco Fingerprint Scanner",
+        "config": {
+          "ownerTypes": ["patient", "relative"],
+          "captureTimeoutSec": 30
+        }
+      },
+      {
         "key": "futronic_fingerprint",
         "type": "signature",
         "enabled": true,
