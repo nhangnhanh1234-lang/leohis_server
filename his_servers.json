@@ -1,7 +1,7 @@
 [
   {
     "id": "benhvienchaudoc_his",
-    "apiBaseUrl": "http://115.79.221.42:6869",
+    "apiBaseUrl": "http://115.79.221.42:6869/leo/api/app",
     "name": "TRUNG TÂM Y TẾ CHÂU PHÚ",
     "shortName": "TRUNG TÂM Y TẾ CHÂU PHÚ",
     "address": "",
