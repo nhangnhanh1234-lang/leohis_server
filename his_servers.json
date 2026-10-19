@@ -1,7 +1,7 @@
 [
   {
     "id": "benhvienquany7_his",
-    "apiBaseUrl": "https://hisbvqy7.vn/leo/api/app",
+    "apiBaseUrl": "http://42.1.72.58:6868/leo/api/app",
     "name": "Bệnh viện Quân Y 7",
     "shortName": "Bệnh viện Quân Y 7",
     "address": "",
